@@ -13,3 +13,10 @@ This project uses the **Paris 2024 Olympics FAQ Dataset**.
 ## Acknowledgmentes
 Special thanks to **Sahitya Setu** for providing the dataset used in this project. Available on Kaggle:
 [Paris 2024 Olympics FAQ](https://www.kaggle.com/datasets/sahityasetu/paris-2024-olympics-faq)
+
+## Results
+![Telegram bot: /start](https://github.com/AngelGiampierre/Paris2024-FAQ-Telegram-Bot/blob/main/Results/SS1.jpeg)
+![Telegram bot: English question](https://github.com/AngelGiampierre/Paris2024-FAQ-Telegram-Bot/blob/main/Results/SS2.jpeg)
+![Telegram bot: French question](https://github.com/AngelGiampierre/Paris2024-FAQ-Telegram-Bot/blob/main/Results/SS3.jpeg)
+![Telegram bot: Another example](https://github.com/AngelGiampierre/Paris2024-FAQ-Telegram-Bot/blob/main/Results/SS4.jpeg)
+
